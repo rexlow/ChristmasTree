@@ -1,0 +1,3 @@
+rootProject.name = 'ChristmasTree'
+
+include ':app'
